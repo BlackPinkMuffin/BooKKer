@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
@@ -6,7 +6,12 @@
     <Nullable>disable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
-    <ApplicationIcon>Copilot_20250906_01005964x64.ico</ApplicationIcon>
+
+	 
+			  <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+			  <ForceDesignerDpiUnaware>true</ForceDesignerDpiUnaware>
+		
+	  <ApplicationIcon>Copilot_20250906_01005964x64.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>

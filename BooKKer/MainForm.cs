@@ -14,6 +14,8 @@ namespace BooKKer
         {
             InitializeComponent();
 
+            this.AutoScaleMode = AutoScaleMode.Dpi;
+
             this.BackColor = Color.FromArgb(30, 30, 30);
             this.ForeColor = Color.White;
             this.Font = new Font("Segoe UI", 10);

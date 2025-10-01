@@ -262,8 +262,11 @@
             // 
             // MainForm
             // 
+            AutoScaleDimensions = new SizeF(96F, 96F);
+            AutoScaleMode = AutoScaleMode.Dpi;
             BackColor = SystemColors.AppWorkspace;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(988, 356);
             Controls.Add(label2);
             Controls.Add(label1);

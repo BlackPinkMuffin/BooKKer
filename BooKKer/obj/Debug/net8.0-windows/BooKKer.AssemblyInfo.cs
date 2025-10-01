@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BooKKer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caa7c41a80a7e8b12bdb28a58db28e43e5443190")]
 [assembly: System.Reflection.AssemblyProductAttribute("BooKKer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BooKKer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
